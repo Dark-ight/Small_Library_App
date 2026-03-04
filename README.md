@@ -24,6 +24,7 @@ This is a JavaFX-based library application where users can view, buy, or borrow 
 ## Requirements
 - Java JDK 8 or higher
 - JavaFX library
+- Check here:([link](https://gluonhq.com/products/javafx/))
 
 ## How to Clone
 
